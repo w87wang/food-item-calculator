@@ -1,1 +1,1 @@
-A simple experiment making a cash register calculator with CoffeeScript with Jasmine tests
+A simple experiment making a cash register calculator with CoffeeScript and Jasmine tests
